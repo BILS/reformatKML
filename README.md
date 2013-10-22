@@ -7,7 +7,7 @@ FILE:
 
 USAGE:
 
-    ./reformatKML.pl infile(s)
+    ./reformatKML.pl input.kml
     ./reformatKML.pl -f=0.5 infile(s)
     ./reformatKML.pl -v infile(s)
     ./reformatKML.pl -h
