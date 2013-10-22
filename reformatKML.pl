@@ -15,7 +15,7 @@ reformatKML.pl
 
 =item ./reformatKML.pl -f=0.5 infile(s)
 
-=item ./reformatKML.pl -v infile(s)
+=item ./reformatKML.pl -noverbose infile(s)
 
 =item ./reformatKML.pl -h
 

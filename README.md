@@ -9,7 +9,7 @@ USAGE:
 
     ./reformatKML.pl input.kml
     ./reformatKML.pl -f=0.5 infile(s)
-    ./reformatKML.pl -v infile(s)
+    ./reformatKML.pl -noverbose infile(s)
     ./reformatKML.pl -h
 
 DESCRIPTION:
