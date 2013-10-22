@@ -11,7 +11,7 @@ reformatKML.pl
 
 =over 8
 
-=item ./reformatKML.pl infile(s)
+=item ./reformatKML.pl input.kml
 
 =item ./reformatKML.pl -f=0.5 infile(s)
 
@@ -96,7 +96,7 @@ Johan Nylander, bils.se
 
 =head1 REVISION:
 
-10/22/2013 01:11:03 PM
+10/22/2013 03:24:25 PM
 
 
 =head1 DOWNLOAD:
