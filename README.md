@@ -14,8 +14,9 @@ USAGE:
 
 DESCRIPTION:
 
-    Reformat kml files to Stephan's output format. Reads file name(s) from
-    standard in, prints to new file(s) with file ending ".new.kml".
+    Reformat kml files to Stephan's output format (see publication reference in NOTES below).
+    
+    Reads file name(s) from standard in, prints to new file(s) with file ending ".new.kml".
 
     Example output:
 
@@ -54,8 +55,11 @@ NOTES:
     Parser and output are specific to given input format. Check output for
     consistency.
 
-    Code fro using XMP::Parser taken from Ray & McIntosh. 2002. Perl & XML.
+    Code for using XMP::Parser taken from Ray & McIntosh. 2002. Perl & XML.
     O'Reilly.
+    
+    See publication Nylinder et al. "On the Biogeography of Centipeda: A Species
+    Tree Diffusion Approach". Syst. Biol. [Accepted manuscript]
 
 AUTHOR:
 
