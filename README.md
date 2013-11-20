@@ -58,7 +58,7 @@ NOTES:
     Code for using XMP::Parser taken from Ray & McIntosh. 2002. Perl & XML.
     O'Reilly.
     
-    See publication Nylinder et al. "On the Biogeography of Centipeda: A Species
+    See publication by Stephan Nylinder et al. "On the Biogeography of Centipeda: A Species
     Tree Diffusion Approach". Syst. Biol. [Accepted manuscript]
 
 AUTHOR:
