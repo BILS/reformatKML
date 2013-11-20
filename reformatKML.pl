@@ -23,7 +23,9 @@ reformatKML.pl
 
 =head1  DESCRIPTION:
 
-Reformat kml files to Stephan's output format. Reads file name(s) from standard in, prints to new file(s) with file ending ".new.kml".
+Reformat kml files to Stephan's output format (see publication reference in NOTES below).
+
+Reads file name(s) from standard in, prints to new file(s) with file ending ".new.kml".
 
 Example output:
 
@@ -76,7 +78,11 @@ no output to stderr
 
 Parser and output are specific to given input format. Check output for consistency.
 
-Code fro using XMP::Parser taken from Ray & McIntosh. 2002. Perl & XML. O'Reilly.
+Code for using XMP::Parser taken from Ray & McIntosh. 2002. Perl & XML. O'Reilly.
+
+See publication by Stephan Nylinder et al. "On the Biogeography of Centipeda: A Species
+Tree Diffusion Approach". Syst. Biol. [Accepted manuscript]
+
 
 
 =head1 AUTHOR:
@@ -96,7 +102,7 @@ Johan Nylander, bils.se
 
 =head1 REVISION:
 
-10/22/2013 03:24:25 PM
+11/20/2013 10:00 AM
 
 
 =head1 DOWNLOAD:
