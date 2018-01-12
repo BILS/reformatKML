@@ -59,11 +59,11 @@ NOTES:
     O'Reilly.
     
     See publication by Stephan Nylinder et al. "On the Biogeography of Centipeda: A Species
-    Tree Diffusion Approach". Syst. Biol. [Accepted manuscript]
+    Tree Diffusion Approach". Syst. Biol. 2014, 63:178-191.
 
 AUTHOR:
 
-    Johan Nylander, bils.se
+    Johan Nylander, nbis.se
 
 VERSION:
 

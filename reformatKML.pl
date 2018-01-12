@@ -81,13 +81,13 @@ Parser and output are specific to given input format. Check output for consisten
 Code for using XMP::Parser taken from Ray & McIntosh. 2002. Perl & XML. O'Reilly.
 
 See publication by Stephan Nylinder et al. "On the Biogeography of Centipeda: A Species
-Tree Diffusion Approach". Syst. Biol. [Accepted manuscript]
+Tree Diffusion Approach". Syst. Biol. 2014, 63:178-191. 
 
 
 
 =head1 AUTHOR:
 
-Johan Nylander, bils.se
+Johan Nylander, nbis.se
 
 
 =head1 VERSION:
